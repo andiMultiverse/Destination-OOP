@@ -1,7 +1,3 @@
-class Airport {
-
-
-}
-
+class Airport {}
 
 module.exports = Airport;
